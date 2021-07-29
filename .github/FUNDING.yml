@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+
+github: # [https://github.com/andipandi111, https://github.com/777ninjamusic, https://github.com/andreamariadb, https://github.com/andrea-mariadb-2]
+patreon: # https://patreon.com/andreamariadb
+open_collective: # @andreamariadb
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://andrea-mariadb-2.github.io/vue, https://github.com/Andrea-MariaDB-2/awesome-vue, https://gumroad.com/andreamariadb,']
+.npm
